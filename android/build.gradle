@@ -30,7 +30,7 @@ android {
         namespace 'me.aljan.telpo_flutter_sdk'
     }
 
-    compileSdkVersion 31
+    compileSdkVersion 36
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
